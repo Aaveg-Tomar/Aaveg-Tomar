@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "100%" src="https://media.licdn.com/dms/image/D4D16AQHwFxrAcW3_Ww/profile-displaybackgroundimage-shrink_350_1400/0/1674833533718?e=1689811200&v=beta&t=8jauNxG15UjMWVFpKwCpaYtWYXBVMhnh8xrxlGo2Yd8" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
@@ -16,11 +16,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Service Provider Website
+- 🔭 I'm currently working on some cool side projects!
 
-- 🌱 I’m currently learning Nodejs , ExpressJs 
+- 🌱  I'm currently improving my data structures & algorithms concepts
 
-- 👯 I’m looking to collaborate on Projects 
+- 👯 🤝I'm looking for help with NodeJs
+
+- 😀 Pronouns: he/him
+  
+- 💬 Ask me about Frontend Development.  
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
