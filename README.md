@@ -1,11 +1,6 @@
-<!-- <div align="center">
-<img width="100%" height = "100%" src="https://media.licdn.com/dms/image/D4D16AQHwFxrAcW3_Ww/profile-displaybackgroundimage-shrink_350_1400/0/1674833533718?e=1689811200&v=beta&t=8jauNxG15UjMWVFpKwCpaYtWYXBVMhnh8xrxlGo2Yd8" alt="cover" />
-</div> -->
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aaveg-Tomar.Aaveg-Tomar)
 
 </p>
 <div size='20px'> Hi! My name is Aaveg Tomar. Thank You for taking the time to view my GitHub Profile :smile: 
